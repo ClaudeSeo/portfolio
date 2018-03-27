@@ -13,10 +13,10 @@
         </p>
       </div>
       <nav>
-        <a href='/'>Home</a>
-        <a href='/#about'>About</a>
-        <a href='/#career'>Career</a>
-        <a href='/#project'>Project</a>
+        <router-link to='/'>Home</router-link>
+        <router-link to='/#about'>About</router-link>
+        <router-link to='/#career'>Career</router-link>
+        <router-link to='/#project'>Project</router-link>
       </nav>
     </div>
   </header>
