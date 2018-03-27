@@ -1,12 +1,12 @@
 <template>
   <header class='clearfix'>
     <div class='container'>
-      <a href='/' class='avatar'>
+      <router-link to='/' class='avatar'>
         <img src='@/assets/img/avatar.jpeg'>
-      </a>
+      </router-link>
       <div class='info'>
         <h1 id='name'>
-          <a href='/'>서동명</a>
+          <router-link to='/'>서동명</router-link>
         </h1>
         <p class='description'>
           ehdaudtj@gmail.com
