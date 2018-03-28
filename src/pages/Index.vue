@@ -142,9 +142,7 @@ export default {
           date: '2017.09 ~ 2018.02',
           description: '특성화고등학교 정보들을 정리해서 제공해주는 서비스',
           image: require('../assets/img/wedongne.png'),
-          contents: [
-            'Back-End 개발'
-          ]
+          contents: []
         },
         {
           title: '뉴스테이지',

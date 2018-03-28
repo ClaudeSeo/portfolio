@@ -49,6 +49,7 @@ export default {
   width: 100%;
   max-height: 500px;
   margin-top: 15px;
+  border: 1px solid #e8e8e8;
 
   img {
     width: 100%;
