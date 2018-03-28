@@ -7,7 +7,7 @@
       <nav class='footer-social'>
         <ul>
           <li>
-            <a href='https://github.com/seodongmyeong'>
+            <a href='https://github.com/claudeseo'>
               <font-awesome-icon :icon="githubIcon" size='2x'></font-awesome-icon>
             </a>
           </li>
